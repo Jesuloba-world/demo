@@ -6,4 +6,4 @@ this is a simple readme file
 
 rubbish 
 
-just some updates, and branch stuff
+this will cause something bad, conflicts
