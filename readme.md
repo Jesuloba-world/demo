@@ -2,8 +2,8 @@
 
 this is a simple readme file
 
-## Another text 
+## Another heading 
 
-rubbish 
+just something else
 
-just something else 
+adding new update 
